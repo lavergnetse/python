@@ -4,13 +4,6 @@ The idea of this session is to grab data of election in France.
 
 Since June 2023, INSEE has put online the addresses depending on the polling stations.
 
-About geo,
-
-About election stats
-
-About GIS
-
-About Data
 
 ## Data to download
 
