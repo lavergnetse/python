@@ -7,6 +7,8 @@ Since June 2023, INSEE has put online the addresses depending on the polling sta
 
 ## Data to download
 
+Gis working folder : https://sharedocs.huma-num.fr/wl/?id=RVzlbdBvE8jxnzqq1b54kbGuOgEFL5mT
+
 ### INSEE REU (Répertoire électoral unique / Single electoral register)
 
 Correspondence files between polling stations and the addresses of voters depending on them allow the construction of polling station areas. These facilitate the comparison of electoral data with the socio-demographic characteristics of voters attached to these areas. These files are drawn up from the Single Electoral Register (REU), established by law no. 2016-1048 of August 1, 2016 renewing the procedures for registration on the electoral lists, and which was implemented from January 1 2019.
