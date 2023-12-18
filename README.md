@@ -1,1 +1,1 @@
-# tse gis courses - 2023
+# tse python & gis courses - 2023
