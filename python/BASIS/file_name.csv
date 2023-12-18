@@ -1,0 +1,302 @@
+id_patient;Nom;Sexe;Age;Occupation
+0;Jomphe;homme;61;manufacture de couvertures
+1;Godin;homme;28;marchand de couleurs
+2;L'Anglais;homme;22;marchand de modes
+3;L'Heureux;femme;83;marchand d etoffes de soie
+4;Dandonneau;homme;40;marchand de vin
+5;Paquette;femme;84;boucher
+6;Bonsaint;femme;64;charcutier
+7;Simon;femme;62;chaudronnier
+8;D'Avis;femme;66;orfevre
+9;Richer;homme;78;fondeur-ciseleur en cuivre
+10;Devoe;homme;20;doreur
+11;Labrosse;femme;69;orfevre
+12;Tollmache;homme;47;fleuriste-plumassier
+13;L'Angelier;homme;38;marchands de galons, franges et cordons
+14;Cotuand;femme;38;marchand de soie en bottes
+15;Bernard;femme;56;lingere
+16;Dastous;homme;22;mercier
+17;Beauchamps;homme;68;boutonnier
+18;Lalonde;femme;26;chapelier
+19;Audet;homme;22;boutonnier
+20;Paulet;homme;84;mercier
+21;Masson;homme;23;marchand de galons, franges et cordons
+22;Larocque;homme;33;menuisier
+23;Lizotte;femme;40;bonnetier
+24;Maheu;femme;56;marchand de galons, franges et cordons
+25;Riquier;homme;81;fleuriste-plumassier
+26;Saurel;femme;84;marchand de galons, franges et cordons
+27;Royer;femme;40;tabletier
+28;Veilleux;homme;29;peaussier
+29;Vertefeuille;femme;50;fleuriste
+30;Richard;homme;79;negociant
+31;Vadeboncoeur;homme;26;peintre en batiments
+32;Babin;femme;70;fourreur-pelletier
+33;Fremont;homme;44;menuisier
+34;Barjavel;homme;47;boulanger
+35;Létourneau;homme;34;marchand de vin
+36;Guédry;femme;85;boucher
+37;Sevier;femme;83;charcutier
+38;Lanteigne;homme;39;fondeur-ciseleur en cuivre
+39;Busson;homme;81;marchand de galons, franges et cordons
+40;Doyon;femme;48;serrurier
+41;Paiement;femme;36;fontaine
+42;Bertrand;homme;35;marchand de galons, franges et cordons
+43;Gingras;femme;70;fabrique de rubans
+44;Marier;homme;82;magasin de chandelles
+45;Varieur;femme;76;luthier
+46;Meilleur;homme;71;fabrique de gazes
+47;Lesage;femme;30;marchand de galons, franges et cordons
+48;Quinn;homme;51;fabrique de gazes
+49;Paradis;homme;19;fondeur-ciseleur en cuivre
+50;Laberge;homme;49;charcutier
+51;Mainville;homme;43;chapelier
+52;Chouinard;homme;79;fabrique de gazes
+53;Tisserand;femme;78;marchand de galons, franges et cordons
+54;Charette;homme;81;quincaillier
+55;Deschênes;homme;31;horloger
+56;Chesnay;homme;44;boulanger
+57;Cuillerier;homme;25;batteur d or
+58;Duffet;homme;63;fabrique de gazes
+59;Charbonneau;femme;57;fleuriste
+60;Guimond;femme;43;marchand de galons, franges et cordons
+61;Meunier;homme;43;plumassier
+62;Létourneau;homme;73;mercier
+63;Mercier;homme;64;boucher
+64;Marleau;homme;23;hopital
+65;Lapierre;femme;44;marchand d eventails
+66;Chicoine;homme;80;parfumeur
+67;Bonsaint;femme;60;fontaine
+68;Lachapelle;homme;21;marchand de vin
+69;Boisvert;femme;42;mercier
+70;Plourde;femme;79;peintre en batiments
+71;Mainville;femme;22;fabrique de gazes
+72;Bélair;homme;37;chapelier
+73;Charette;femme;32;mercier
+74;Étoile;femme;78;marchand d eventails
+75;Ferland;femme;55;tabletier
+76;Grimard;homme;68;horloger
+77;Guernon;femme;20;tabletier
+78;Caya;homme;40;boulanger
+79;Gauvin;femme;46;fleuriste-plumassier
+80;Varieur;homme;75;marchand de toiles
+81;Desnoyers;femme;51;marchand de toiles
+82;Fournier;homme;72;epicier
+83;Gendron;homme;55;mercier
+84;St-Pierre;homme;39;fabrique de gazes
+85;Larivière;homme;46;bureau de roulage 
+86;Fréchette;femme;26;peintre en batiments
+87;Lebel;femme;57;marchand de modes
+88;Rocher;homme;34;marchand de soie en bottes
+89;Veronneau;femme;35;epicier
+90;Sauvé;homme;31;fleuriste-plumassier
+91;Gosselin;homme;35;marchand de galons, franges et cordons
+92;Busson;femme;61;fleuriste-plumassier
+93;Berthiaume;femme;23;plumassier
+94;Trudeau;femme;29;fleuriste-plumassier
+95;Primeau;homme;33;fleuriste-plumassier
+96;Adler;femme;84;quincailliers
+97;DeGrasse;femme;36;marchand d eventails
+98;Lemaître;femme;31;marchand d estampes
+99;St-Pierre;femme;37;plombier
+100;Petrie;homme;27;tabletier
+101;L'Heureux;homme;82;fabrique de gazes
+102;Chicoine;homme;68;fabrique de gazes
+103;Veronneau;femme;77;marchand de modes
+104;Laramée;homme;23;fabrique de gazes
+105;Daviau;homme;69;mercier
+106;Briard;femme;43;quincaillier en gros
+107;Routhier;femme;44;mercier
+108;Laramée;homme;24;mercier
+109;Lajoie;homme;29;horloger
+110;Jacques;femme;30;marchand de brosses
+111;Doiron;femme;31;mercier
+112;Fecteau;homme;45;tabletier
+113;Gosselin;homme;63;mercier
+114;Cartier;homme;75;chapitre
+115;Bourgeau;femme;46;horloger
+116;Beauchamps;femme;55;chapelier
+117;Boisclair;femme;32;magasin de jouets d enfants
+118;Jalbert;femme;50;marchand d etoffes de soie
+119;Paquin;homme;81;procureur au Chatelet
+120;Paquette;femme;46;horloger
+121;Thivierge;homme;26;magasin de jouets d enfants
+122;Babin;femme;40;mercier
+123;Perreault;femme;27;mercier
+124;Marleau;femme;60;mercier
+125;Duffet;femme;52;marchand de draps
+126;Adler;femme;49;marchand de draps
+127;Truchon;femme;32;commissaire au Chatelet
+128;Dostie;femme;57;mercier
+129;Quinn;femme;84;marchand de toiles
+130;Gour;homme;53;mercier
+131;Sevier;homme;19;mercier
+132;Beauchesne;femme;67;mercier
+133;Lafontaine;homme;81;mercier
+134;Boisclair;femme;75;marchand de soie en bottes
+135;Monjeau;homme;83;marchand d indiennes
+136;Charest;homme;38;mercier
+137;St-Jean;femme;72;marchand de soie en bottes
+138;Chnadonnet;homme;24;marchand d etoffes de soie
+139;Parmentier;homme;66;mercier
+140;Vaillancourt;femme;73;epicier
+141;Gervais;homme;34;hopital
+142;Huot;homme;76;bonnetier
+143;Chnadonnet;femme;47;marchand d indiennes
+144;Perrault;homme;22;mercier
+145;Labonté;femme;67;mercier
+146;Plouffe;femme;39;marchand de draps
+147;Laforest;homme;85;marchand de draps
+148;Garcia;homme;33;commissaire au Chatelet
+149;De La Vergne;homme;41;mercier
+150;Mothé;femme;45;marchand de toiles
+151;Plouffe;femme;45;mercier
+152;Michaud;femme;20;mercier
+153;Patry;homme;39;mercier
+154;Brunault;femme;80;mercier
+155;Martel;femme;22;marchand de soie en bottes
+156;Bordeaux;femme;41;marchand d indiennes
+157;Grimard;homme;51;mercier
+158;Duhamel;femme;51;marchand de soie en bottes
+159;St-Pierre;femme;37;marchand d etoffes de soie
+160;Thivierge;homme;59;mercier
+161;Jolicoeur;homme;44;epicier
+162;Renaud;femme;75;hopital
+163;Grandbois;homme;31;bonnetier
+164;Lamontagne;femme;69;marchand d indiennes
+165;Vernadeau;femme;35;mercier
+166;Charpie;homme;52;quincaillier
+167;Labbé;homme;49;couvreur
+168;Petit;homme;35;epicier
+169;Martel;femme;80;marchand d indiennes
+170;Perillard;homme;27;fruitier-oranger
+171;Beauchamps;femme;57;boulanger
+172;Guérette;femme;34;fontaine
+173;Batard;homme;20;faiencier
+174;Mousseau;femme;64;bonnetier
+175;Deschênes;homme;28;boite-aux-lettres de la grande poste
+176;Despins;femme;20;bureau
+177;Berger;homme;69;bureau
+178;Quinn;homme;63;bureau
+179;Guay;femme;82;epicier
+180;Pirouet;homme;65;marchand de toiles
+181;Lafrenière;femme;49;boulanger
+182;Neufville;femme;24;chapelier
+183;Montminy;femme;47;marchand de galons, franges et cordons
+184;Poissonnier;homme;80;marchand de vin
+185;Beaudouin;homme;35;marchand de soie en bottes
+186;Vincent;femme;29;fabrique de gazes
+187;Reault;homme;42;marchand de galons, franges et cordons
+188;Tougas;femme;54;marchand de soie en bottes
+189;Bousquet;femme;27;epicier
+190;Dupuy;homme;49;peintre en batiments
+191;Marceau;femme;58;fabrique de gazes
+192;Petit;homme;61;marchand de galons, franges et cordons
+193;Brousse;femme;71;marchand de galons, franges et cordons
+194;David;homme;64;notaire
+195;Bois;femme;69;apothicaire
+196;Abril;femme;47;magasin de dentelles
+197;Gougeon;homme;43;fabrique de rubans
+198;Bourgeois;homme;19;horloger
+199;St-Jean;homme;68;ancien echevin
+200;Petit;femme;45;marchand de modes
+201;Doucet;femme;27;marchand de toiles
+202;Lapresse;femme;31;batteur d or
+203;Hébert;femme;67;notaire
+204;Bourget;homme;52;boite-aux-lettres de la grande poste
+205;Tachel;femme;79;bureau de roulage 
+206;Audet;homme;24;hotel meuble
+207;Villeneuve;femme;80;fabrique de rubans
+208;Laramée;femme;57;marchand de soie en bottes
+209;Richer;homme;83;papetier
+210;De La Ronde;femme;68;marchand d etoffes de soie
+211;Lafrenière;homme;78;fabrique de gazes
+212;Gaillou;homme;45;bonnetier
+213;Dastous;homme;73;eglise
+214;Létourneau;femme;62;fleuriste-plumassier
+215;Daviau;homme;55;horloger
+216;Harquin;homme;75;fleuriste
+217;Barrière;femme;58;lingere
+218;Durand;homme;37;boulanger
+219;Beauchesne;homme;25;bonnetier
+220;Loiseau;femme;52;marchand de galons, franges et cordons
+221;Fournier;homme;42;marchand de soie en bottes
+222;Aupry;homme;58;epicier
+223;Fournier;homme;77;peintre en batiments
+224;Goulet;homme;46;fabrique de gazes
+225;Rhéaume;homme;55;marchand de galons, franges et cordons
+226;Lacroix;homme;50;marchand de galons, franges et cordons
+227;Mousseau;homme;58;notaire
+228;Morneau;homme;39;apothicaire
+229;Laderoute;femme;77;magasin de dentelles
+230;Ruais;homme;55;fabrique de rubans
+231;Beauchesne;femme;37;horloger
+232;Lagacé;femme;38;ancien echevin
+233;Gingras;femme;37;marchand de modes
+234;Jacques;homme;43;marchand de toiles
+235;Paré;femme;75;fleuriste-plumassier
+236;Lamy;femme;77;marchand de galons, franges et cordons
+237;Descoteaux;femme;54;plumassier
+238;Lavallée;homme;80;apothicaire
+239;Dagenais;femme;47;papetier
+240;Parent;femme;83;orfevre
+241;Ouellet;femme;51;chapelier
+242;Moquin;homme;78;epicier
+243;Lécuyer;femme;79;epicier
+244;Guertin;homme;80;bureau de roulage 
+245;Charbonneau;femme;46;fabrique de gazes
+246;Rivière;femme;66;fabrique de gazes
+247;Richard;homme;21;tapissier
+248;Gingras;homme;27;quincaillier
+249;DuLin;femme;52;marchand de modes
+250;Ruest;homme;72;parfumeur
+251;Deschênes;homme;65;marchand d etoffes de soie
+252;Louineaux;femme;65;marchand d etoffes de soie
+253;Chouinard;femme;60;mercier
+254;Morin;femme;76;marchand d eventails
+255;Despins;femme;72;mercier
+256;Ménard;femme;71;magasin de mouchoirs
+257;Grivois;homme;38;horloger
+258;Cailot;femme;46;magasin de chandelles
+259;Fremont;femme;58;fleuriste-plumassier
+260;Goudreau;homme;82;marchand d estampes
+261;Hervé;homme;80;fondeur-ciseleur en or
+262;Carrière;femme;29;fabrique de gazes
+263;Chartier;homme;25;depot
+264;Renaud;homme;81;fourreur-pelletier
+265;Phaneuf;femme;27;bonnetier
+266;Goulet;femme;70;charcutier
+267;Chevrette;femme;20;marchand de toiles
+268;Bellemare;homme;30;fabrique de rubans en gros
+269;Course;homme;35;macon
+270;Fresne;homme;75;mercier
+271;Levasseur;homme;31;marchand d etoffes de soie
+272;Gauvin;homme;41;marchand de galons, franges et cordons
+273;Duperré;femme;67;marchand de galons, franges et cordons
+274;Francoeur;homme;62;quincaillier
+275;Dagenais;femme;66;parfumeur
+276;Angélil;homme;55;orfevre
+277;Laforest;homme;53;boutonnier
+278;Dennis;femme;69;boutonnier
+279;Laderoute;femme;42;bonnetier
+280;Sabourin;femme;38;magasin de gants
+281;Leclerc;homme;57;lingere
+282;Desjardins;femme;65;boucher
+283;Adler;femme;39;boucher
+284;Mainville;femme;67;boucher
+285;Beausoleil;femme;56;boucher
+286;Mousseau;homme;19;boucher
+287;Brodeur;homme;52;boucher
+288;Parizeau;femme;74;fruitier-oranger
+289;Couturier;femme;62;marche
+290;Garreau;homme;39;epicier
+291;Deserres;femme;26;papetier
+292;Cinq-Mars;femme;50;batteur d or
+293;Dostie;homme;82;corroyeur
+294;Masson;homme;59;boulanger
+295;Charron;femme;55;ferblantier
+296;Faure;femme;28;bonnetier
+297;Barrière;femme;59;marchand de draps
+298;Moïse;femme;41;marchand de draps
+299;Guay;homme;34;marchand de draps
+;;;;
